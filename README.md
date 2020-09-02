@@ -12,4 +12,4 @@ cp -r rpmbuild /PATH/TO/WHERE/YOU/WANT/TO/BUILD/YOUR/THINGS
 ```
 
 ## Example
-![alt text](http://url/to/img.png)
+![example](https://github.com/markdhooper/rpmbuild/blob/master/rpmbuild.png)
